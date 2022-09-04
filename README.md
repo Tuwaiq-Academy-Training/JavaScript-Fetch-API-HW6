@@ -8,6 +8,10 @@
 ![Screenshot (15)](https://user-images.githubusercontent.com/56152970/188333682-da329396-c071-4817-8ec4-6281c2d280c8.png)
 ![Screenshot (16)](https://user-images.githubusercontent.com/56152970/188333686-fe4b2f02-09bc-443a-9a6c-3687df6daa87.png)
 ![Screenshot (17)](https://user-images.githubusercontent.com/56152970/188333687-68a50860-51f1-40e7-8739-9b60515c338f.png)
+
+# netlify link
+* https://shaalas-fitness-calculator.netlify.app
+
 # JavaScript-Fetch-API-HW6
 # develop your website upload it here with ScreenShots in README.
 --------------------------------------------------------------------------------------------------------
