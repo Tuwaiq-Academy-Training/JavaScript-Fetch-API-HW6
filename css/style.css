@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    /* font-family: "Lucida Console", "Courier New", monospace; */
+    color:white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: plum;
+    font-size: 17px;
+
+    background-image: url('../image1.jfif');
+    background-size: cover;
+    background-position: center;
+    height:100vh;
+
+
+  }
+  .container{
+
+    /* font-family: "Times New Roman", Times, serif; */
+    padding: 3rem;
+    margin-left:20rem;
+    margin-right: 20rem;
+
+    background-color: powderblue;
+    border: 5px solid plum;
+
+
+  }
+
+  img {
+    border: 5px solid pink;
+  }
