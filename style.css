@@ -1,0 +1,37 @@
+body {
+    justify-content: center;
+    align-items: center;
+    background-image:url("./img/banana-falling.jpg");
+    background-size: 93%;
+  }
+
+joke{
+    text-align: center;
+    width: 10rem;
+    letter-spacing: 20rem;
+    margin-left: 20rem;
+    
+}
+h3{
+    text-align: center;
+    border-color: antiquewhite;
+    border-radius: 1rem;
+    background-color: rgb(255, 255, 255);
+    padding: 5rem;
+
+}
+.g-button{
+    background-color: rgb(231, 231, 231);
+    
+    color: black;
+    border-color: rgb(231, 231, 231);
+}
+h5{
+    text-align: center;
+    border-color: #d5d4d4;
+}
+.a-button{
+    border: 1px solid #10335b;
+    color: #10335b;
+    background-color: #e1ecf3;
+}
