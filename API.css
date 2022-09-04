@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://img.freepik.com/free-vector/watercolor-background-with-hand-drawn-elements_23-2148867455.jpg?w=2000);
+    
+  }
+
+  h1 {
+    color: rgb(247, 2, 104);
+    font-family: 'Courier New', Courier, monospace;
+    font-style: bold;
+  }
+  
+  .input-group{
+    border: 6em;
+    margin-top: 5rem;
+    padding-left: 20rem;
+    padding-right: 20rem;
+  }
+
+  .age-div{
+    color: rgb(247, 2, 104);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    position: center;
+    margin-top: 5rem;
+
+  }
