@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://mdbootstrap.com/img/new/fluid/city/018.jpg");
+  }
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px; /* 5px rounded corners */
+  }
+  .card-header {
+
+color: red;
+  }
+
+  #search-btn  {
+    background-color: #130f0f
+  }
+  #hh1 {
+    
+        font-family: "Times New Roman", Times, serif;
+        font-weight: bold ;
+        font-size : 80px;
+        text-shadow: 2px 2px #1dbfdf;
+  }
+  #pp1{
+    font-family: "Times New Roman", Times, serif;
+    
+    color: rgb(255, 253, 253);
+    font-style: italic;
+  }
