@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://media.giphy.com/media/5wWf7H5pp15X4yOr2ik/giphy.gif');
+}
+#body-fat-percentage-content{
+    display:none;
+}
+#daily-calory-requirements-content{
+    display:none;
+}
