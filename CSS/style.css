@@ -1,0 +1,51 @@
+body{
+background-image:url(/JavaScript-Fetch-API-HW6/img/Background_design_\(25\).jpg) ;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 10rem;
+
+}
+
+h1{
+    color: white;
+ 
+margin-left: 6.5rem;
+
+}
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    margin-right:10rem;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+#sub {
+    cursor: pointer;
+    background-color: #00ff59;
+    border: 2px solid #00ff59;
+    border-radius: 4px;
+    color: #fff;
+    display: block;
+    font-size: 16px;
+    padding: 5px;
+    margin-left: 3rem;
+    width: 70%;
+  }
+  
+ #sub:hover {
+  
+    background-color: #8cb6df;
+    border-color: #1975f5;
+  transition: .3s;
+  
+  }
+  #age{
+    margin-left:10rem ;
+  }
+
+ 
+ 
