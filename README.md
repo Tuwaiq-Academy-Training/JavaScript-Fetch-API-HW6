@@ -1,8 +1,1 @@
-# JavaScript-Fetch-API-HW6
-# develop your website upload it here with ScreenShots in README.
---------------------------------------------------------------------------------------------------------
-
-# Helper links.
-* https://www.netlify.com
-* https://apipheny.io/free-api/ 
-
+![image](https://user-images.githubusercontent.com/106033915/188322900-4023dc5d-3574-4f0b-b701-bf03adaaa814.png)
