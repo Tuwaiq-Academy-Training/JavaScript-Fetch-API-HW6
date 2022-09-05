@@ -1,0 +1,16 @@
+body{
+    background-image: url(./1w.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h5{
+    color: rgb(79, 132, 167);
+    text-align: center;
+    padding-bottom: 1rem;;
+}
+p{
+    color: rgb(79, 132, 167);
+}
